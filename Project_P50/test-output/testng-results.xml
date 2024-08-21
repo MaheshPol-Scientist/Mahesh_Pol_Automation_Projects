@@ -2,56 +2,56 @@
 <testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-07T23:26:42 IST" name="Default suite" finished-at="2024-07-07T23:27:28 IST" duration-ms="46390">
+  <suite started-at="2024-07-24T22:14:01 IST" name="Default suite" finished-at="2024-07-24T22:14:54 IST" duration-ms="52933">
     <groups>
     </groups>
-    <test started-at="2024-07-07T23:26:42 IST" name="Default test" finished-at="2024-07-07T23:27:28 IST" duration-ms="46390">
+    <test started-at="2024-07-24T22:14:01 IST" name="Default test" finished-at="2024-07-24T22:14:54 IST" duration-ms="52933">
       <class name="TestCase09.ShoppingTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:26:30 IST" name="setup" finished-at="2024-07-07T23:26:42 IST" duration-ms="11597" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:13:25 IST" name="setup" finished-at="2024-07-24T22:14:01 IST" duration-ms="35816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="SignUppageTest()[pri:1, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:26:42 IST" name="SignUppageTest" finished-at="2024-07-07T23:26:51 IST" duration-ms="8758" status="PASS">
+        <test-method signature="SignUppageTest()[pri:1, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:01 IST" name="SignUppageTest" finished-at="2024-07-24T22:14:09 IST" duration-ms="8219" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignUppageTest -->
-        <test-method signature="shopToday()[pri:2, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:26:51 IST" name="shopToday" finished-at="2024-07-07T23:26:55 IST" duration-ms="4357" status="PASS">
+        <test-method signature="shopToday()[pri:2, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:09 IST" name="shopToday" finished-at="2024-07-24T22:14:14 IST" duration-ms="4741" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- shopToday -->
-        <test-method signature="climateFilter()[pri:3, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:26:55 IST" name="climateFilter" finished-at="2024-07-07T23:26:57 IST" duration-ms="2135" status="PASS">
+        <test-method signature="climateFilter()[pri:3, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:14 IST" name="climateFilter" finished-at="2024-07-24T22:14:16 IST" duration-ms="2241" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- climateFilter -->
-        <test-method signature="coolClimate()[pri:4, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:26:57 IST" name="coolClimate" finished-at="2024-07-07T23:27:01 IST" duration-ms="4016" status="PASS">
+        <test-method signature="coolClimate()[pri:4, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:16 IST" name="coolClimate" finished-at="2024-07-24T22:14:24 IST" duration-ms="7311" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- coolClimate -->
-        <test-method signature="selectItem()[pri:6, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:01 IST" name="selectItem" finished-at="2024-07-07T23:27:05 IST" duration-ms="3988" status="PASS">
+        <test-method signature="selectItem()[pri:6, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:24 IST" name="selectItem" finished-at="2024-07-24T22:14:30 IST" duration-ms="6494" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectItem -->
-        <test-method signature="selectSize()[pri:7, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:05 IST" name="selectSize" finished-at="2024-07-07T23:27:10 IST" duration-ms="4364" status="PASS">
+        <test-method signature="selectSize()[pri:7, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:30 IST" name="selectSize" finished-at="2024-07-24T22:14:35 IST" duration-ms="4340" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- selectSize -->
-        <test-method signature="AddToWishList()[pri:8, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:10 IST" name="AddToWishList" finished-at="2024-07-07T23:27:12 IST" duration-ms="2174" status="PASS">
+        <test-method signature="AddToWishList()[pri:8, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:35 IST" name="AddToWishList" finished-at="2024-07-24T22:14:37 IST" duration-ms="2159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddToWishList -->
-        <test-method signature="ViewWishList()[pri:9, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:12 IST" name="ViewWishList" finished-at="2024-07-07T23:27:18 IST" duration-ms="5824" status="PASS">
+        <test-method signature="ViewWishList()[pri:9, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:37 IST" name="ViewWishList" finished-at="2024-07-24T22:14:42 IST" duration-ms="5545" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViewWishList -->
-        <test-method signature="ShippingAddress()[pri:10, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:18 IST" name="ShippingAddress" finished-at="2024-07-07T23:27:26 IST" duration-ms="8573" status="PASS">
+        <test-method signature="ShippingAddress()[pri:10, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:42 IST" name="ShippingAddress" finished-at="2024-07-24T22:14:52 IST" duration-ms="9272" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ShippingAddress -->
-        <test-method signature="signOutPage()[pri:11, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:26 IST" name="signOutPage" finished-at="2024-07-07T23:27:28 IST" duration-ms="1773" status="PASS">
+        <test-method signature="signOutPage()[pri:11, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:52 IST" name="signOutPage" finished-at="2024-07-24T22:14:54 IST" duration-ms="2226" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- signOutPage -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-07T23:27:28 IST" name="close" finished-at="2024-07-07T23:27:28 IST" duration-ms="257" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase09.ShoppingTest@54422e18]" started-at="2024-07-24T22:14:54 IST" name="close" finished-at="2024-07-24T22:14:54 IST" duration-ms="228" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

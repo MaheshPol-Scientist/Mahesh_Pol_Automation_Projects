@@ -23,9 +23,7 @@ public class ShoppingTest1 {
 	@Test(priority = 1)
 
 	public void SignUppageTest() throws InterruptedException {
-		// WebElement signup=driver.findElement(By.linkText("Sign In"));
-		// signup.click();
-		// Thread.sleep(2000);
+		
 		WebElement signin = driver.findElement(By.linkText("Sign In"));
 		signin.click();
 		WebElement email = driver.findElement(By.xpath("//input[@id='email']"));
